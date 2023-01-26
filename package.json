@@ -1,0 +1,11 @@
+{
+  "name": "202301-w2ch3-antonio-ruiz-v2",
+  "version": "1.0.0",
+  "description": "práctica de intalación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJ",
+  "license": "ISC"
+}
